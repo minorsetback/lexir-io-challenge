@@ -13,8 +13,8 @@ const Content = () => {
         <section className="grid grid-cols-6 gap-5 w-wrapper mx-auto mt-10">
             <section className="col-span-2 border p-5 h-baldoria ml-12">
                 <img className="mx-auto" src={Baldoria.src} />
-                <p className="font-serif text-45 font-black text-center mt-16 mb-5">Baldoria Vermouth</p>
-                <p className="text-base font-normal w-[95%] text-[#2D2D2D]">Badoria rosso is a red vermouth that balances fresh, herby bitter notes against. Kiss My Rhubarb takes its origins from an old handwritten recipe from co-creators Niels’ and Wouters’ rebellious grandparents.</p>
+                <p className="font-serif text-[38px] font-black text-center mt-16 mb-5">Baldoria Vermouth</p>
+                <p className="text-base font-normal w-[307px] text-[#2D2D2D]">Badoria rosso is a red vermouth that balances fresh, herby bitter notes against. Kiss My Rhubarb takes its origins from an old handwritten recipe from co-creators Niels’ and Wouters’ rebellious grandparents.</p>
                 <p className="text-center font-bold text-[#1C8C64] mt-8 mb-16 cursor-pointer">Read More</p>
                 <section className="flex items-start mb-10">
                     <img className="mr-5 mt-1" src={Location.src} />
