@@ -27,8 +27,8 @@ const Content = () => {
                     <img className="mr-5 mt-1" src={Box.src} />
                     <section>
                         <p className="m-0 font-normal mb-2">Product Categories</p>
-                        <span className="p-1 pr-5 pl-5 bg-[#F9F9F9] mr-2">Gin</span>
-                        <span className="p-1 pr-5 pl-5 bg-[#F9F9F9]">Vodka</span>
+                        <span className="p-1 pr-5 pl-5 bg-[#F9F9F9] text-[#595959] mr-2">Gin</span>
+                        <span className="p-1 pr-5 pl-5 bg-[#F9F9F9] text-[#595959]">Vodka</span>
                     </section>
                 </section>
             </section>
