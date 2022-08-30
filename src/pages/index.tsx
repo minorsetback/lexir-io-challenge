@@ -6,6 +6,10 @@ import Footer from "@components/MainPage/Footer";
 export default function Home() {
   return (
     <>
+      <Head>
+        <title>LEXIR</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </Head>
       <Header />
       <Content />
       <Footer />

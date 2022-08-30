@@ -48,8 +48,8 @@ const Footer = () => {
                         <p className='text-gray-400'>© 2022 Lexir Inc.</p>
                     </section>
                     <section>
-                        <span className='mr-10 text-[#8F8F8F] cursor-pointer'>Privacy</span>
-                        <span className='text-slate-200 cursor-pointer'>Terms of service</span>
+                        <span className='mr-10 text-[#8F8F8F] cursor-pointer font-medium'>Privacy</span>
+                        <span className='text-slate-200 cursor-pointer font-medium'>Terms of service</span>
                     </section>
                 </section>
             </section>
